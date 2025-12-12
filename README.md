@@ -106,17 +106,14 @@ EY & Microsoft: AI Skills Passport
 
 Simplilearn: Power BI & Git Training
 
-📊 GitHub Banner Roadmap (modern banner style)
+
 <div align="center"> <!-- A banner-style horizontal roadmap made from badges and short labels -->
 
-<a href="#learning"><img alt="Learn" src="https://img.shields.io/badge/01-Learn%20Python-blue?style=for-the-badge" /></a>
-<img src="https://img.shields.io/badge/→- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -?style=for-the-badge" />
-<a href="#ml"><img alt="ML" src="https://img.shields.io/badge/02-ML%20Models-magenta?style=for-the-badge" /></a>
-<img src="https://img.shields.io/badge/→- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -?style=for-the-badge" />
-<a href="#projects"><img alt="Projects" src="https://img.shields.io/badge/03-Projects-orange?style=for-the-badge" /></a>
-<img src="https://img.shields.io/badge/→- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -?style=for-the-badge" />
-<a href="#deploy"><img alt="Deploy" src="https://img.shields.io/badge/04-Deploy%20&%20Dashboards-green?style=for-the-badge" /></a>
+🏆 Certifications & Badges
 
+Below are my Credly badges — click any badge to view the official credential page.
+
+<p align="center"> <!-- Badge 1 --> <a href="https://www.credly.com/badges/61723d92-b0d7-40d0-a327-617488f714ba/public_url" target="_blank" rel="noopener"> <img alt="Credly Badge 1" src="https://img.shields.io/badge/Credly-Badge%201-blue?style=for-the-badge&logo=credly" /> </a> &nbsp; <!-- Badge 2 --> <a href="https://www.credly.com/badges/378556cc-c14f-42ea-8d5d-604a75151936/public_url" target="_blank" rel="noopener"> <img alt="Credly Badge 2" src="https://img.shields.io/badge/Credly-Badge%202-blue?style=for-the-badge&logo=credly" /> </a> &nbsp; <!-- Badge 3 --> <a href="https://www.credly.com/badges/54c655dc-4625-4a72-8a16-94244a21e95c/public_url" target="_blank" rel="noopener"> <img alt="Credly Badge 3" src="https://img.shields.io/badge/Credly-Badge%203-blue?style=for-the-badge&logo=credly" /> </a> &nbsp; <!-- Badge 4 --> <a href="https://www.credly.com/badges/a839cedc-66b0-4010-84aa-40a3802321d5/public_url" target="_blank" rel="noopener"> <img alt="Credly Badge 4" src="https://img.shields.io/badge/Credly-Badge%204-blue?style=for-the-badge&logo=credly" /> </a> </p>
 </div>
 📡 Connect With Me
 <p align="center"> <a href="mailto:adityapareek7412@gmail.com"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a> <a href="https://github.com/AdityaPareek7412"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a> <a href="https://www.linkedin.com/in/aditya-pareek-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> </p>
