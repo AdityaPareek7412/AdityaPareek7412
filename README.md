@@ -1,79 +1,123 @@
-<!-- 🚀 Modern Animated Header | Data Science Learner -->
+<!-- 🚀 Modern Animated Header | Data Science & ML Enthusiast -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00F5FF&vCenter=true&width=900&lines=Data+Science+Learner;Python+%7C+SQL+%7C+Power+BI;Aspiring+Data+Analyst;Welcome+to+My+Tech+Space!" alt="typing" />
-</p>
+<!-- Typing Animation Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=28&duration=3500&pause=700&color=4A90E2&center=true&vCenter=true&width=800&lines=Hi+I'm+Aditya+Pareek+👋;Data+Science+%7C+Machine+Learning+Enthusiast;Python+Developer;AI+%26+ML+Practitioner;Welcome+to+my+GitHub+Profile!" alt="typing" />
+</h1>
 
 <h1 align="center">Hi, I'm Aditya Pareek! 👋</h1>
 
 <p align="center" style="font-size:1.05em">
-  <b>🚀 Data Science</b> &nbsp;|&nbsp; <b>📈 Aspiring Data Analyst</b> &nbsp;|&nbsp; <b>🧠 Python & Power BI</b>
+  <b>🚀 Data Science Learner</b> &nbsp;|&nbsp; 
+  <b>🤖 Machine Learning Explorer</b> &nbsp;|&nbsp; 
+  <b>🧠 Python Developer</b>
 </p>
 
 ---
 
-## 🧬 My Tech Story: Automating + Innovating Across Stacks
+## 🧬 My Tech Story: Learning, Building & Innovating (Horizontal Roadmap)
 
-mermaid
-flowchart TD
-    Start{{Learn Basics}} --> Python[Python for Data]
-    Python --> SQL[SQL & Databases]
-    SQL --> EDA[Exploratory Data Analysis]
-    EDA --> ML[Basic Machine Learning]
-    ML --> BI[Dashboards in Power BI]
-    BI --> Projects[End-to-End Projects]
+<!-- Mermaid horizontal roadmap (LR). This is GitHub-compatible Mermaid -->
+```mermaid
+flowchart LR
+    start((Curiosity))
+    start --> py[Python Programming]
+    py --> dsa[Data Structures & Algorithms]
+    dsa --> ml[Machine Learning & Generative AI]
+    ml --> web[Django & Full-Stack Development]
+    web --> projects[End-to-End ML + Web Projects]
+    projects --> internships[Industry Internships]
+    internships --> goal[Skilled Data Scientist]
 
+    %% color classes
+    classDef core fill:#0ea5e9,stroke:#093c66,color:#fff,stroke-width:1px;
+    classDef infra fill:#34d399,stroke:#0a3d2e,color:#062e2f,stroke-width:1px;
+    classDef mlcol fill:#f472b6,stroke:#661337,color:#fff,stroke-width:1px;
+    classDef prod fill:#f59e0b,stroke:#7a4a00,color:#fff,stroke-width:1px;
 
+    class start core
+    class py core
+    class dsa core
+    class ml mlcol
+    class web prod
+    class projects prod
+    class internships infra
+    class goal core
 
-- *Data Science Mindset*: I love turning raw, messy data into insights using Python, Pandas, NumPy, and ML models.
-- *ML Explorer*: Always experimenting with algorithms — classification, clustering, forecasting — and learning how to improve real-world predictions.
-- *Analytical Thinking*: I break down complex problems into simple, logical, and workable solutions.
-- *Curiosity Driven*: If data exists, I want to analyze it. If patterns exist, I want to find them.
+    %% add direction arrows with labels (simulate progress)
+    py -->|learn libraries| libs((Pandas / NumPy / Scikit-Learn))
+    libs --> ml
+    ml -->|deploy| api[APIs & Deployment]
+    api --> web
+```
+🚀 About Me
 
----
+🎓 B.Tech CSE student (CGPA: 9.69)
+💡 Passionate about Machine Learning, Data Analytics, and Full-Stack Django Development
+📊 Worked on real-world ML projects (classification, regression, clustering)
+🛠️ Experience in Python Development & Data Science internships
 
-## 💡 Toolbox of the Modern Era
+I enjoy solving problems, building impactful ML models, and creating modern web applications.
 
-<div align="center"> 
-  <!-- DevOps --> 
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white" /> </a> <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" /> </a> <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" /> </a> <a href="https://github.com/features/actions" target="_blank"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" /> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> </a> 
-  <!-- Data Science --> 
-  <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" /> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" /> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" /> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" /> </a> <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&logoColor=white" /> </a> 
-  <!-- Others --> <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /> </a> <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white" /> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" /> </a> </div>
+🛠️ Tech Stack
+Languages
 
----
-<div align="center">
-  <!-- GitHub Stats (Updated URL) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushsuthar07&show_icons=true&theme=radical" height="160" />
-  <!-- GitHub Streak (Updated URL) -->
-  <img src="https://streak-stats.demolab.com/?user=piyushsuthar07&theme=radical" height="160" />
-  <br>
-  <!-- Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushsuthar07&theme=monokai" height="200" />
+Python • C++ • Java • SQL • HTML/CSS
+
+ML & Data Tools
+
+Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn
+
+Frameworks
+
+Django • Bootstrap
+
+Tools
+
+Power BI • Excel • Git • VS Code • Jupyter Notebook
+
+📌 Projects
+🔹 Mini-Tweet — Microblogging Web App
+
+Django • SQLite • Bootstrap
+CRUD for tweets, user authentication, responsive UI, MVT architecture.
+
+🔹 Diabetes Prediction Model
+
+85% accuracy → Logistic Regression + KNN
+Feature engineering + preprocessing + visualization.
+
+🔹 Customer Churn Prediction
+
+80% accuracy → Random Forest + Logistic Regression
+EDA + churn indicator analysis.
+
+🏆 Certifications
+
+IBM: Python for Data Science • Data Analysis • Data Visualization
+
+IIT Bombay: Python Training
+
+Deloitte: Data Analytics Simulation
+
+Infosys: Data Science Foundation
+
+EY & Microsoft: AI Skills Passport
+
+Simplilearn: Power BI & Git Training
+
+📊 GitHub Banner Roadmap (modern banner style)
+<div align="center"> <!-- A banner-style horizontal roadmap made from badges and short labels -->
+
+<a href="#learning"><img alt="Learn" src="https://img.shields.io/badge/01-Learn%20Python-blue?style=for-the-badge" /></a>
+<img src="https://img.shields.io/badge/→- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -?style=for-the-badge" />
+<a href="#ml"><img alt="ML" src="https://img.shields.io/badge/02-ML%20Models-magenta?style=for-the-badge" /></a>
+<img src="https://img.shields.io/badge/→- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -?style=for-the-badge" />
+<a href="#projects"><img alt="Projects" src="https://img.shields.io/badge/03-Projects-orange?style=for-the-badge" /></a>
+<img src="https://img.shields.io/badge/→- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -?style=for-the-badge" />
+<a href="#deploy"><img alt="Deploy" src="https://img.shields.io/badge/04-Deploy%20&%20Dashboards-green?style=for-the-badge" /></a>
+
 </div>
-
-
----
-
-## 📡 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/piyush-suthar07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sutharpiyush033@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-</div>
-
----
-
-## 🌈 Final Thought
-
-> Pipelines are like puzzles; ML is like magic.  
-> Every new tool is a party, and every new problem is an invitation.  
-> Trying to make tech more fun, fast, and fail-proof—one commit at a time.
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyclF1b2RuMGRyY3MzYTFxeHc0YWNvb3VlbwktOdmlmc3Cobz7d4g/giphy.gif" height="100" alt="Confetti animation">
-  <br>
-  <sub><i>Modern Analyst + DataScience by Piyush Suthar</i></sub>
-</div>
+📡 Connect With Me
+<p align="center"> <a href="mailto:adityapareek7412@gmail.com"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a> <a href="https://github.com/AdityaPareek7412"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a> <a href="https://www.linkedin.com/in/aditya-pareek-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> </p>
+<h3 align="center">⭐ Thanks for visiting my profile! Feel free to star my repositories!</h3> ```
