@@ -50,6 +50,8 @@ flowchart LR
     ml -->|deploy| api[APIs & Deployment]
     api --> web
 ```
+
+
 🚀 About Me
 
 🎓 B.Tech CSE student (CGPA: 9.69)
@@ -58,6 +60,8 @@ flowchart LR
 🛠️ Experience in Python Development & Data Science internships
 
 I enjoy solving problems, building impactful ML models, and creating modern web applications.
+
+
 
 🛠️ Tech Stack
 Languages
@@ -76,6 +80,8 @@ Tools
 
 Power BI • Excel • Git • VS Code • Jupyter Notebook
 
+
+
 📌 Projects
 🔹 Mini-Tweet — Microblogging Web App
 
@@ -91,6 +97,8 @@ Feature engineering + preprocessing + visualization.
 
 80% accuracy → Random Forest + Logistic Regression
 EDA + churn indicator analysis.
+
+
 
 🏆 Certifications
 
@@ -108,6 +116,7 @@ Simplilearn: Power BI & Git Training
 
 
 <div align="center"> <!-- A banner-style horizontal roadmap made from badges and short labels -->
+
 
 🏆 Certifications & Badges
 
