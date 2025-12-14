@@ -168,8 +168,8 @@ I enjoy solving problems, building impactful ML models, and creating modern web 
 ## 🔥 GitHub Dashboard
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shubham-saini18&show_icons=true&theme=radical" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-saini18&theme=radical" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaPareek7412&show_icons=true&theme=radical" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaPareek7412&theme=radical" height="160"/>
 </p>
 
 ---
