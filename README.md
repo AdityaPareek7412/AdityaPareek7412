@@ -63,56 +63,117 @@ I enjoy solving problems, building impactful ML models, and creating modern web 
 
 
 
-🛠️ Tech Stack
-Languages
+<div align="center">
 
-Python • C++ • Java • SQL • HTML/CSS
+# ⚡ Aditya Pareek — Data Science & ML Engineer
 
-ML & Data Tools
+🚀 *Turning data into decisions • Models into products • Code into impact*
 
-Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn
+</div>
 
-Frameworks
+---
 
-Django • Bootstrap
+## 💡 Thechnical Skills ->
 
-Tools
+<p align="center">
 
-Power BI • Excel • Git • VS Code • Jupyter Notebook
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+</p>
 
+<p align="center">
 
-📌 Projects
-🔹 Mini-Tweet — Microblogging Web App
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-Django • SQLite • Bootstrap
-CRUD for tweets, user authentication, responsive UI, MVT architecture.
+</p>
 
-🔹 Diabetes Prediction Model
+<p align="center">
 
-85% accuracy → Logistic Regression + KNN
-Feature engineering + preprocessing + visualization.
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-🔹 Customer Churn Prediction
+</p>
 
-80% accuracy → Random Forest + Logistic Regression
-EDA + churn indicator analysis.
+<p align="center">
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+</p>
 
-🏆 Certifications
+---
 
-IBM: Python for Data Science • Data Analysis • Data Visualization
+## ⚡ Highlight Reel
 
-IIT Bombay: Python Training
+- 🚀 Built **end-to-end ML pipelines** from raw data to deployed models  
+- 📊 Delivered **business-ready insights** using EDA & visualization  
+- 🤖 Improved prediction accuracy using **feature engineering & model tuning**  
+- 🧠 Hands-on experience with **classification & churn analysis problems**  
+- 🔁 My rule: *If it can be automated — I automate it*
 
-Deloitte: Data Analytics Simulation
+---
 
-Infosys: Data Science Foundation
+## 📌 Projects
 
-EY & Microsoft: AI Skills Passport
+### 🔹 Mini-Tweet — Microblogging Web App
+**Tech:** Django • SQLite • Bootstrap  
+- CRUD operations for tweets  
+- Secure user authentication  
+- Responsive UI  
+- Clean MVT architecture  
 
-Simplilearn: Power BI & Git Training
+---
+
+### 🔹 Diabetes Prediction Model
+**Accuracy:** ⭐ **85%**  
+- Logistic Regression + KNN  
+- Feature engineering & preprocessing  
+- Visual analysis for insights  
+
+---
+
+### 🔹 Customer Churn Prediction
+**Accuracy:** ⭐ **80%**  
+- Random Forest + Logistic Regression  
+- Exploratory Data Analysis (EDA)  
+- Churn indicator analysis  
+
+---
+
+## 🏆 Certifications
+
+- 🟢 **IBM** — Python for Data Science  
+- 🟢 **IBM** — Data Analysis  
+- 🟢 **IBM** — Data Visualization  
+- 🔵 **IIT Bombay** — Python Training  
+- 🟡 **Deloitte** — Data Analytics Simulation  
+- 🟣 **Infosys** — Data Science Foundation  
+- 🔷 **EY & Microsoft** — AI Skills Passport  
+- 🟠 **Simplilearn** — Power BI & Git Training  
+
+---
+
+## 🔥 GitHub Dashboard
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shubham-saini18&show_icons=true&theme=radical" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-saini18&theme=radical" height="160"/>
+</p>
+
+---
+
 
 
 <div align="center"> <!-- A banner-style horizontal roadmap made from badges and short labels -->
@@ -124,6 +185,15 @@ Below are my Credly badges — click any badge to view the official credential p
 
 <p align="center"> <!-- Badge 1 --> <a href="https://www.credly.com/badges/61723d92-b0d7-40d0-a327-617488f714ba/public_url" target="_blank" rel="noopener"> <img alt="Credly Badge 1" src="https://img.shields.io/badge/Credly-Badge%201-blue?style=for-the-badge&logo=credly" /> </a> &nbsp; <!-- Badge 2 --> <a href="https://www.credly.com/badges/378556cc-c14f-42ea-8d5d-604a75151936/public_url" target="_blank" rel="noopener"> <img alt="Credly Badge 2" src="https://img.shields.io/badge/Credly-Badge%202-blue?style=for-the-badge&logo=credly" /> </a> &nbsp; <!-- Badge 3 --> <a href="https://www.credly.com/badges/54c655dc-4625-4a72-8a16-94244a21e95c/public_url" target="_blank" rel="noopener"> <img alt="Credly Badge 3" src="https://img.shields.io/badge/Credly-Badge%203-blue?style=for-the-badge&logo=credly" /> </a> &nbsp; <!-- Badge 4 --> <a href="https://www.credly.com/badges/a839cedc-66b0-4010-84aa-40a3802321d5/public_url" target="_blank" rel="noopener"> <img alt="Credly Badge 4" src="https://img.shields.io/badge/Credly-Badge%204-blue?style=for-the-badge&logo=credly" /> </a> </p>
 </div>
+
+## 🚀 Final Note
+
+⭐ Passionate about **Data Science, ML, and real-world problem solving**  
+📌 Always learning, always building  
+
+**Let’s connect & build something impactful!**
+
+
 📡 Connect With Me
 <p align="center"> <a href="mailto:adityapareek7412@gmail.com"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a> <a href="https://github.com/AdityaPareek7412"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a> <a href="https://www.linkedin.com/in/aditya-pareek-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> </p>
 <h3 align="center">⭐ Thanks for visiting my profile! Feel free to star my repositories!</h3> ```
