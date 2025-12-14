@@ -197,4 +197,4 @@ Below are my Credly badges — click any badge to view the official credential p
 
 📡 Connect With Me
 <p align="center"> <a href="mailto:adityapareek7412@gmail.com"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a> <a href="https://github.com/AdityaPareek7412"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a> <a href="https://www.linkedin.com/in/aditya-pareek-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> </p>
-<h3 align="center">⭐ Thanks for visiting my profile! Feel free to star my repositories!</h3> ```
+<h3 align="center">⭐ Thanks for visiting my profile! Feel free to star my repositories!</h3> 
