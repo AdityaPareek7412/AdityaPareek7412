@@ -73,7 +73,7 @@ I enjoy solving problems, building impactful ML models, and creating modern web 
 
 ---
 
-## 💡 Thechnical Skills ->
+## 💡 Technical Skills ->
 
 <p align="center">
 
